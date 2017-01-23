@@ -11,7 +11,7 @@ always return an object with type and payload keys to follow the [actions conven
 
 ## Usage
 ```
-import createReducer from 'redux-create-reducer';
+import createReducer from 'create-redux-reducer';
 ...
 
 // reducers/auth.js

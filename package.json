@@ -1,6 +1,6 @@
 {
-  "name": "redux-create-reducer",
-  "version": "0.0.1",
+  "name": "create-redux-reducer",
+  "version": "0.0.2",
   "description": "Creates reducer using computed keys",
   "main": "index.js",
   "scripts": {
