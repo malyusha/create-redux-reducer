@@ -1,5 +1,5 @@
 module.exports = function createReducer(initialState, reducerMap) {
-  return (state, action) => {
+  return function(state, action) {
     state = state || initialState;
 
     var reducer = reducerMap[action.type];
